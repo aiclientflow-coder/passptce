@@ -23,12 +23,21 @@ export default function HomePage() {
             Start free diagnostic
           </Link>
           <Link
+            href="/tutor"
+            className="rounded-lg border border-white/40 bg-white/10 px-5 py-3 text-sm font-semibold text-white hover:bg-white/20"
+          >
+            Ask the Study Tutor
+          </Link>
+          <Link
             href="/pricing"
             className="rounded-lg border border-white/40 px-5 py-3 text-sm font-semibold text-white hover:bg-white/10"
           >
             See pricing
           </Link>
         </div>
+        <p className="mt-4 text-xs text-brand-200">
+          Tutor: 5 free messages/day · unlimited when unlocked · PTCE topics only
+        </p>
       </div>
 
       <div className="mt-10 grid gap-6 sm:grid-cols-3">
@@ -42,8 +51,8 @@ export default function HomePage() {
             body: "Domain bands (weak / ok / strong) and a study plan ranked by weight times weakness.",
           },
           {
-            title: "Original bank",
-            body: "No copied PTCB or commercial wording. Pharmacist QC flags live in REVIEW.md.",
+            title: "Original bank + tutor",
+            body: "No copied PTCB or commercial wording. Study Tutor retrieves original notes & rationales only.",
           },
         ].map((card) => (
           <div key={card.title} className="rounded-xl border border-slate-200 bg-white p-5 shadow-sm">
