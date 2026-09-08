@@ -1,0 +1,3696 @@
+[
+  {
+    "id": "med-001",
+    "domain": "medications",
+    "stem": "A prescription is written for atorvastatin. Which brand name matches this generic?",
+    "choices": [
+      "Lipitor",
+      "Zocor",
+      "Crestor",
+      "Pravachol"
+    ],
+    "correctIndex": 0,
+    "rationale": "Atorvastatin is the generic for Lipitor. Zocor is simvastatin, Crestor is rosuvastatin, Pravachol is pravastatin.",
+    "topicTags": [
+      "brand-generic",
+      "statins"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "med-002",
+    "domain": "medications",
+    "stem": "Which generic corresponds to the brand name Synthroid?",
+    "choices": [
+      "levothyroxine",
+      "liothyronine",
+      "methimazole",
+      "propylthiouracil"
+    ],
+    "correctIndex": 0,
+    "rationale": "Synthroid is a brand of levothyroxine. Liothyronine is Cytomel; methimazole and PTU are antithyroid agents.",
+    "topicTags": [
+      "brand-generic",
+      "thyroid"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "med-003",
+    "domain": "medications",
+    "stem": "Metformin is most commonly classified in which therapeutic category?",
+    "choices": [
+      "Biguanide antidiabetic",
+      "Sulfonylurea",
+      "GLP-1 receptor agonist",
+      "DPP-4 inhibitor"
+    ],
+    "correctIndex": 0,
+    "rationale": "Metformin is a biguanide used for type 2 diabetes.",
+    "topicTags": [
+      "therapeutic-class",
+      "diabetes"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "med-004",
+    "domain": "medications",
+    "stem": "Which medication is a high-alert anticoagulant commonly dispensed as a vitamin K antagonist?",
+    "choices": [
+      "warfarin",
+      "clopidogrel",
+      "aspirin",
+      "enoxaparin"
+    ],
+    "correctIndex": 0,
+    "rationale": "Warfarin is a vitamin K antagonist and high-alert anticoagulant. Clopidogrel and aspirin are antiplatelets; enoxaparin is an LMWH.",
+    "topicTags": [
+      "high-alert",
+      "anticoagulant"
+    ],
+    "paidOnly": false,
+    "needsReview": true
+  },
+  {
+    "id": "med-005",
+    "domain": "medications",
+    "stem": "Lisinopril belongs to which drug class?",
+    "choices": [
+      "ACE inhibitor",
+      "ARB",
+      "Beta blocker",
+      "Calcium channel blocker"
+    ],
+    "correctIndex": 0,
+    "rationale": "Lisinopril is an ACE inhibitor.",
+    "topicTags": [
+      "therapeutic-class",
+      "cardiovascular"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "med-006",
+    "domain": "medications",
+    "stem": "Which controlled substance schedule typically includes drugs with accepted medical use and the highest abuse potential among scheduled prescription drugs (e.g., oxycodone products)?",
+    "choices": [
+      "Schedule II",
+      "Schedule III",
+      "Schedule IV",
+      "Schedule V"
+    ],
+    "correctIndex": 0,
+    "rationale": "Schedule II includes many potent opioids with accepted medical use and high abuse potential.",
+    "topicTags": [
+      "schedules",
+      "controlled-substances"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "med-007",
+    "domain": "medications",
+    "stem": "Alprazolam is generally placed in which controlled substance schedule under federal law?",
+    "choices": [
+      "Schedule IV",
+      "Schedule II",
+      "Schedule III",
+      "Schedule V"
+    ],
+    "correctIndex": 0,
+    "rationale": "Benzodiazepines such as alprazolam are Schedule IV federally.",
+    "topicTags": [
+      "schedules",
+      "benzodiazepines"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "med-008",
+    "domain": "medications",
+    "stem": "Which brand name matches the generic amlodipine?",
+    "choices": [
+      "Norvasc",
+      "Lopressor",
+      "Coreg",
+      "Diovan"
+    ],
+    "correctIndex": 0,
+    "rationale": "Amlodipine is Norvasc.",
+    "topicTags": [
+      "brand-generic",
+      "cardiovascular"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "med-009",
+    "domain": "medications",
+    "stem": "Omeprazole is primarily used to treat which condition category?",
+    "choices": [
+      "Acid-related disorders (e.g., GERD)",
+      "Bacterial skin infections",
+      "Type 1 diabetes",
+      "Acute gout flares"
+    ],
+    "correctIndex": 0,
+    "rationale": "Omeprazole is a proton pump inhibitor used for GERD and related acid disorders.",
+    "topicTags": [
+      "indications",
+      "PPI"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "med-010",
+    "domain": "medications",
+    "stem": "Which medication is an SSRI antidepressant often known by the brand Zoloft?",
+    "choices": [
+      "sertraline",
+      "fluoxetine",
+      "paroxetine",
+      "citalopram"
+    ],
+    "correctIndex": 0,
+    "rationale": "Zoloft is sertraline.",
+    "topicTags": [
+      "brand-generic",
+      "antidepressants"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "med-011",
+    "domain": "medications",
+    "stem": "Insulin products are considered high-alert primarily because:",
+    "choices": [
+      "Dosing errors can cause severe hypoglycemia or hyperglycemia",
+      "They are always Schedule II controlled substances",
+      "They must be dispensed only in unit-dose cups",
+      "They have no brand-generic equivalents"
+    ],
+    "correctIndex": 0,
+    "rationale": "Insulins are high-alert due to risk of serious harm from dosing and product mix-ups.",
+    "topicTags": [
+      "high-alert",
+      "insulin",
+      "diabetes"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "med-012",
+    "domain": "medications",
+    "stem": "Gabapentin is commonly used for which of the following?",
+    "choices": [
+      "Neuropathic pain and certain seizure disorders",
+      "Acute bacterial meningitis first-line monotherapy",
+      "Thrombolysis in stroke",
+      "Vitamin B12 deficiency"
+    ],
+    "correctIndex": 0,
+    "rationale": "Gabapentin is used for neuropathic pain and as adjunctive therapy for some seizures.",
+    "topicTags": [
+      "indications",
+      "neurology"
+    ],
+    "paidOnly": false,
+    "needsReview": true
+  },
+  {
+    "id": "med-013",
+    "domain": "medications",
+    "stem": "Which generic matches the brand name Glucophage?",
+    "choices": [
+      "metformin",
+      "glipizide",
+      "glyburide",
+      "pioglitazone"
+    ],
+    "correctIndex": 0,
+    "rationale": "Glucophage is metformin.",
+    "topicTags": [
+      "brand-generic",
+      "diabetes"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "med-014",
+    "domain": "medications",
+    "stem": "Hydrocodone combination products are federally classified as:",
+    "choices": [
+      "Schedule II",
+      "Schedule III",
+      "Schedule IV",
+      "Schedule V"
+    ],
+    "correctIndex": 0,
+    "rationale": "Hydrocodone combination products are Schedule II under federal law.",
+    "topicTags": [
+      "schedules",
+      "opioids"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "med-015",
+    "domain": "medications",
+    "stem": "Montelukast (Singulair) is primarily indicated for:",
+    "choices": [
+      "Asthma and allergic rhinitis management",
+      "Acute hypertensive emergency",
+      "Clostridium difficile infection",
+      "Opioid withdrawal"
+    ],
+    "correctIndex": 0,
+    "rationale": "Montelukast is a leukotriene receptor antagonist used for asthma and allergic rhinitis.",
+    "topicTags": [
+      "indications",
+      "respiratory"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "med-016",
+    "domain": "medications",
+    "stem": "Which drug is a loop diuretic commonly branded as Lasix?",
+    "choices": [
+      "furosemide",
+      "hydrochlorothiazide",
+      "spironolactone",
+      "chlorthalidone"
+    ],
+    "correctIndex": 0,
+    "rationale": "Lasix is furosemide, a loop diuretic.",
+    "topicTags": [
+      "brand-generic",
+      "diuretics"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "med-017",
+    "domain": "medications",
+    "stem": "Pregabalin (Lyrica) is federally scheduled as:",
+    "choices": [
+      "Schedule V",
+      "Schedule II",
+      "Schedule III",
+      "Schedule I"
+    ],
+    "correctIndex": 0,
+    "rationale": "Pregabalin is Schedule V federally.",
+    "topicTags": [
+      "schedules",
+      "neurology"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "med-018",
+    "domain": "medications",
+    "stem": "What is the primary purpose of a REMS program?",
+    "choices": [
+      "To manage known or potential serious risks of certain medications while keeping them available",
+      "To set AWP pricing for wholesalers",
+      "To replace the need for a valid prescription",
+      "To authorize technicians to prescribe controlled substances"
+    ],
+    "correctIndex": 0,
+    "rationale": "REMS programs manage serious risks for specific drugs.",
+    "topicTags": [
+      "REMS",
+      "federal-med-safety"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "med-019",
+    "domain": "medications",
+    "stem": "Clopidogrel is best described as:",
+    "choices": [
+      "An antiplatelet agent",
+      "A direct oral anticoagulant (DOAC)",
+      "A low molecular weight heparin",
+      "A vitamin K antagonist"
+    ],
+    "correctIndex": 0,
+    "rationale": "Clopidogrel (Plavix) is an antiplatelet P2Y12 inhibitor.",
+    "topicTags": [
+      "therapeutic-class",
+      "cardiovascular"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "med-020",
+    "domain": "medications",
+    "stem": "Which medication is commonly used as a short-acting beta agonist rescue inhaler component?",
+    "choices": [
+      "albuterol",
+      "tiotropium",
+      "fluticasone alone as rescue",
+      "montelukast"
+    ],
+    "correctIndex": 0,
+    "rationale": "Albuterol is a SABA used for rescue.",
+    "topicTags": [
+      "respiratory",
+      "dosage-forms"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "med-021",
+    "domain": "medications",
+    "stem": "Levothyroxine counseling often emphasizes taking the dose:",
+    "choices": [
+      "On an empty stomach, consistently, away from interacting supplements like calcium/iron",
+      "Only with a high-fat meal",
+      "Only at bedtime with milk",
+      "Crushed and mixed into grapefruit juice"
+    ],
+    "correctIndex": 0,
+    "rationale": "Absorption is affected by food and polyvalent cations; consistent empty-stomach timing is standard counseling.",
+    "topicTags": [
+      "counseling",
+      "thyroid"
+    ],
+    "paidOnly": false,
+    "needsReview": true
+  },
+  {
+    "id": "med-022",
+    "domain": "medications",
+    "stem": "Which antibiotic class includes azithromycin?",
+    "choices": [
+      "Macrolides",
+      "Fluoroquinolones",
+      "Cephalosporins",
+      "Tetracyclines"
+    ],
+    "correctIndex": 0,
+    "rationale": "Azithromycin is a macrolide.",
+    "topicTags": [
+      "therapeutic-class",
+      "antibiotics"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "med-023",
+    "domain": "medications",
+    "stem": "Tramadol is federally classified as:",
+    "choices": [
+      "Schedule IV",
+      "Schedule II",
+      "Schedule III",
+      "Unscheduled"
+    ],
+    "correctIndex": 0,
+    "rationale": "Tramadol is Schedule IV under federal law.",
+    "topicTags": [
+      "schedules",
+      "opioids"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "med-024",
+    "domain": "medications",
+    "stem": "Losartan belongs to which class?",
+    "choices": [
+      "Angiotensin II receptor blocker (ARB)",
+      "ACE inhibitor",
+      "Alpha-1 blocker",
+      "Nitrate"
+    ],
+    "correctIndex": 0,
+    "rationale": "Losartan is an ARB.",
+    "topicTags": [
+      "therapeutic-class",
+      "cardiovascular"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "med-025",
+    "domain": "medications",
+    "stem": "Which medication is a proton pump inhibitor?",
+    "choices": [
+      "pantoprazole",
+      "sucralfate",
+      "metoclopramide",
+      "calcium carbonate only"
+    ],
+    "correctIndex": 0,
+    "rationale": "Pantoprazole is a PPI.",
+    "topicTags": [
+      "therapeutic-class",
+      "GI"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "med-026",
+    "domain": "medications",
+    "stem": "Amphetamine mixed salts (e.g., Adderall) are typically:",
+    "choices": [
+      "Schedule II",
+      "Schedule III",
+      "Schedule IV",
+      "Schedule V"
+    ],
+    "correctIndex": 0,
+    "rationale": "Amphetamine products used for ADHD are Schedule II.",
+    "topicTags": [
+      "schedules",
+      "CNS-stimulants"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "med-027",
+    "domain": "medications",
+    "stem": "Which brand matches generic escitalopram?",
+    "choices": [
+      "Lexapro",
+      "Prozac",
+      "Effexor",
+      "Wellbutrin"
+    ],
+    "correctIndex": 0,
+    "rationale": "Lexapro is escitalopram.",
+    "topicTags": [
+      "brand-generic",
+      "antidepressants"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "med-028",
+    "domain": "medications",
+    "stem": "Potassium chloride oral solutions/tablets are high-alert in many settings because:",
+    "choices": [
+      "Incorrect dosing or route confusion can cause serious cardiac harm",
+      "They are Schedule I substances",
+      "They must be refrigerated after every open",
+      "They have no NDC numbers"
+    ],
+    "correctIndex": 0,
+    "rationale": "Concentrated potassium products are high-alert due to risk of severe harm from dosing/route errors.",
+    "topicTags": [
+      "high-alert",
+      "electrolytes"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "med-029",
+    "domain": "medications",
+    "stem": "Duloxetine (Cymbalta) is commonly used for:",
+    "choices": [
+      "Depression and certain neuropathic pain conditions",
+      "Acute gout only",
+      "Vitamin D deficiency",
+      "Helicobacter pylori monotherapy"
+    ],
+    "correctIndex": 0,
+    "rationale": "Duloxetine is an SNRI used for MDD and approved neuropathic/pain indications.",
+    "topicTags": [
+      "indications",
+      "antidepressants"
+    ],
+    "paidOnly": false,
+    "needsReview": true
+  },
+  {
+    "id": "med-030",
+    "domain": "medications",
+    "stem": "Which medication is an HMG-CoA reductase inhibitor (statin)?",
+    "choices": [
+      "rosuvastatin",
+      "ezetimibe",
+      "fenofibrate",
+      "cholestyramine"
+    ],
+    "correctIndex": 0,
+    "rationale": "Rosuvastatin is a statin.",
+    "topicTags": [
+      "therapeutic-class",
+      "statins"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "med-031",
+    "domain": "medications",
+    "stem": "Carvedilol is best classified as:",
+    "choices": [
+      "A nonselective beta blocker with alpha-blocking activity",
+      "An ACE inhibitor",
+      "A thiazide diuretic",
+      "A DOAC"
+    ],
+    "correctIndex": 0,
+    "rationale": "Carvedilol blocks beta and alpha-1 receptors.",
+    "topicTags": [
+      "therapeutic-class",
+      "cardiovascular"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "med-032",
+    "domain": "medications",
+    "stem": "Which dosage form is designed for placement under the tongue for rapid absorption?",
+    "choices": [
+      "Sublingual tablet",
+      "Enteric-coated tablet",
+      "Transdermal patch",
+      "Rectal enema"
+    ],
+    "correctIndex": 0,
+    "rationale": "Sublingual tablets dissolve under the tongue for transmucosal absorption.",
+    "topicTags": [
+      "dosage-forms"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "med-033",
+    "domain": "medications",
+    "stem": "Methylphenidate products used for ADHD are generally:",
+    "choices": [
+      "Schedule II",
+      "Schedule IV",
+      "Schedule V",
+      "Not controlled"
+    ],
+    "correctIndex": 0,
+    "rationale": "Methylphenidate is Schedule II federally.",
+    "topicTags": [
+      "schedules",
+      "CNS-stimulants"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "med-034",
+    "domain": "medications",
+    "stem": "Apixaban is a:",
+    "choices": [
+      "Direct oral anticoagulant (factor Xa inhibitor)",
+      "Vitamin K antagonist",
+      "Antiplatelet P2Y12 inhibitor",
+      "Low molecular weight heparin"
+    ],
+    "correctIndex": 0,
+    "rationale": "Apixaban (Eliquis) is a factor Xa inhibitor DOAC.",
+    "topicTags": [
+      "anticoagulant",
+      "therapeutic-class"
+    ],
+    "paidOnly": false,
+    "needsReview": true
+  },
+  {
+    "id": "med-035",
+    "domain": "medications",
+    "stem": "Which medication is commonly associated with a REMS for teratogenicity risk (isotretinoin programs)?",
+    "choices": [
+      "isotretinoin",
+      "amoxicillin",
+      "acetaminophen",
+      "loratadine"
+    ],
+    "correctIndex": 0,
+    "rationale": "Isotretinoin has a well-known REMS/restricted program due to teratogenicity (iPLEDGE).",
+    "topicTags": [
+      "REMS",
+      "safety"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "med-p01",
+    "domain": "medications",
+    "stem": "Which brand matches generic sitagliptin?",
+    "choices": [
+      "Januvia",
+      "Invokana",
+      "Farxiga",
+      "Jardiance"
+    ],
+    "correctIndex": 0,
+    "rationale": "Januvia is sitagliptin (DPP-4).",
+    "topicTags": [
+      "brand-generic",
+      "diabetes"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "med-p02",
+    "domain": "medications",
+    "stem": "Bupropion is commonly used for depression and which additional labeled use?",
+    "choices": [
+      "Smoking cessation (Zyban)",
+      "Acute opioid overdose reversal",
+      "Vitamin K deficiency",
+      "Anthrax prophylaxis"
+    ],
+    "correctIndex": 0,
+    "rationale": "Bupropion (Zyban) is used for smoking cessation as well as depression.",
+    "topicTags": [
+      "indications"
+    ],
+    "paidOnly": true,
+    "needsReview": true
+  },
+  {
+    "id": "med-p03",
+    "domain": "medications",
+    "stem": "Tamsulosin is primarily used for:",
+    "choices": [
+      "Benign prostatic hyperplasia (BPH) symptoms",
+      "Acute migraine abortion",
+      "Hypothyroidism",
+      "Community-acquired pneumonia"
+    ],
+    "correctIndex": 0,
+    "rationale": "Tamsulosin is an alpha-1 blocker for BPH.",
+    "topicTags": [
+      "indications",
+      "urology"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "med-p04",
+    "domain": "medications",
+    "stem": "Which drug is a cephalosporin antibiotic?",
+    "choices": [
+      "cephalexin",
+      "azithromycin",
+      "ciprofloxacin",
+      "doxycycline"
+    ],
+    "correctIndex": 0,
+    "rationale": "Cephalexin is a first-generation cephalosporin.",
+    "topicTags": [
+      "antibiotics"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "med-p05",
+    "domain": "medications",
+    "stem": "Zolpidem is federally scheduled as:",
+    "choices": [
+      "Schedule IV",
+      "Schedule II",
+      "Schedule III",
+      "Schedule I"
+    ],
+    "correctIndex": 0,
+    "rationale": "Zolpidem (Ambien) is Schedule IV.",
+    "topicTags": [
+      "schedules",
+      "sedative-hypnotics"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "med-p06",
+    "domain": "medications",
+    "stem": "Which insulin is typically considered rapid-acting?",
+    "choices": [
+      "insulin aspart",
+      "insulin glargine",
+      "insulin detemir",
+      "NPH insulin"
+    ],
+    "correctIndex": 0,
+    "rationale": "Aspart is rapid-acting; glargine/detemir are long-acting; NPH is intermediate.",
+    "topicTags": [
+      "insulin",
+      "diabetes"
+    ],
+    "paidOnly": true,
+    "needsReview": true
+  },
+  {
+    "id": "med-p07",
+    "domain": "medications",
+    "stem": "Allopurinol is used primarily to:",
+    "choices": [
+      "Lower uric acid in gout management",
+      "Treat acute bacterial cystitis",
+      "Reverse heparin",
+      "Treat hypothyroidism"
+    ],
+    "correctIndex": 0,
+    "rationale": "Allopurinol reduces uric acid production.",
+    "topicTags": [
+      "indications",
+      "gout"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "med-p08",
+    "domain": "medications",
+    "stem": "Which brand matches generic valsartan?",
+    "choices": [
+      "Diovan",
+      "Cozaar",
+      "Benicar",
+      "Avapro"
+    ],
+    "correctIndex": 0,
+    "rationale": "Diovan is valsartan.",
+    "topicTags": [
+      "brand-generic"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "med-p09",
+    "domain": "medications",
+    "stem": "Codeine combination cough products may be scheduled as:",
+    "choices": [
+      "Schedule III or V depending on formulation and federal/state rules",
+      "Schedule I always",
+      "Schedule II only if OTC",
+      "Never controlled"
+    ],
+    "correctIndex": 0,
+    "rationale": "Codeine combination products appear in C-III or C-V depending on strength/formulation.",
+    "topicTags": [
+      "schedules"
+    ],
+    "paidOnly": true,
+    "needsReview": true
+  },
+  {
+    "id": "med-p10",
+    "domain": "medications",
+    "stem": "Spironolactone is a:",
+    "choices": [
+      "Potassium-sparing diuretic / aldosterone antagonist",
+      "Loop diuretic",
+      "Thiazide diuretic",
+      "Osmotic diuretic"
+    ],
+    "correctIndex": 0,
+    "rationale": "Spironolactone antagonizes aldosterone and spares potassium.",
+    "topicTags": [
+      "diuretics"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "med-p11",
+    "domain": "medications",
+    "stem": "Which medication is an atypical antipsychotic?",
+    "choices": [
+      "quetiapine",
+      "sertraline",
+      "lorazepam",
+      "cetirizine"
+    ],
+    "correctIndex": 0,
+    "rationale": "Quetiapine is an atypical antipsychotic.",
+    "topicTags": [
+      "psychiatric"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "med-p12",
+    "domain": "medications",
+    "stem": "Nitroglycerin sublingual tablets are used for:",
+    "choices": [
+      "Acute angina relief",
+      "Chronic constipation",
+      "Type 2 diabetes first-line",
+      "Bacterial vaginosis"
+    ],
+    "correctIndex": 0,
+    "rationale": "SL nitroglycerin treats acute anginal episodes.",
+    "topicTags": [
+      "cardiovascular",
+      "dosage-forms"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "med-p13",
+    "domain": "medications",
+    "stem": "Which drug is a fluoroquinolone?",
+    "choices": [
+      "ciprofloxacin",
+      "amoxicillin",
+      "cephalexin",
+      "azithromycin"
+    ],
+    "correctIndex": 0,
+    "rationale": "Ciprofloxacin is a fluoroquinolone.",
+    "topicTags": [
+      "antibiotics"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "med-p14",
+    "domain": "medications",
+    "stem": "Methadone used for opioid use disorder / analgesia is:",
+    "choices": [
+      "Schedule II",
+      "Schedule IV",
+      "Schedule V",
+      "Not controlled"
+    ],
+    "correctIndex": 0,
+    "rationale": "Methadone is Schedule II.",
+    "topicTags": [
+      "schedules",
+      "opioids"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "med-p15",
+    "domain": "medications",
+    "stem": "Ondansetron is primarily used as:",
+    "choices": [
+      "An antiemetic (5-HT3 antagonist)",
+      "A stimulant laxative",
+      "An anticonvulsant",
+      "A statin"
+    ],
+    "correctIndex": 0,
+    "rationale": "Ondansetron blocks 5-HT3 receptors to reduce nausea/vomiting.",
+    "topicTags": [
+      "GI",
+      "indications"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "med-p16",
+    "domain": "medications",
+    "stem": "Which brand matches generic fluticasone nasal?",
+    "choices": [
+      "Flonase",
+      "Nasonex",
+      "Rhinocort",
+      "Astelin"
+    ],
+    "correctIndex": 0,
+    "rationale": "Flonase is fluticasone.",
+    "topicTags": [
+      "brand-generic",
+      "respiratory"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "med-p17",
+    "domain": "medications",
+    "stem": "Diazepam is scheduled as:",
+    "choices": [
+      "Schedule IV",
+      "Schedule II",
+      "Schedule III",
+      "Schedule V"
+    ],
+    "correctIndex": 0,
+    "rationale": "Diazepam is Schedule IV.",
+    "topicTags": [
+      "schedules",
+      "benzodiazepines"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "med-p18",
+    "domain": "medications",
+    "stem": "Empagliflozin belongs to which class?",
+    "choices": [
+      "SGLT2 inhibitor",
+      "DPP-4 inhibitor",
+      "Sulfonylurea",
+      "Meglitinide"
+    ],
+    "correctIndex": 0,
+    "rationale": "Empagliflozin (Jardiance) is an SGLT2 inhibitor.",
+    "topicTags": [
+      "diabetes",
+      "therapeutic-class"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "med-p19",
+    "domain": "medications",
+    "stem": "Which medication requires hazardous drug handling awareness in many USP <800> contexts?",
+    "choices": [
+      "methotrexate (certain uses)",
+      "polyethylene glycol 3350 OTC",
+      "artificial tears",
+      "normal saline irrigation"
+    ],
+    "correctIndex": 0,
+    "rationale": "Methotrexate is commonly on hazardous drug lists depending on use/form.",
+    "topicTags": [
+      "hazardous-drugs",
+      "safety"
+    ],
+    "paidOnly": true,
+    "needsReview": true
+  },
+  {
+    "id": "med-p20",
+    "domain": "medications",
+    "stem": "Atenolol is a:",
+    "choices": [
+      "Beta blocker",
+      "ACE inhibitor",
+      "ARB",
+      "CCB"
+    ],
+    "correctIndex": 0,
+    "rationale": "Atenolol is a beta-1 selective blocker.",
+    "topicTags": [
+      "cardiovascular"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "med-p21",
+    "domain": "medications",
+    "stem": "Which is an example of a Schedule III controlled substance category under federal law?",
+    "choices": [
+      "Certain anabolic steroids and some codeine combination products",
+      "Heroin",
+      "Alprazolam",
+      "Pregabalin"
+    ],
+    "correctIndex": 0,
+    "rationale": "Schedule III includes anabolic steroids and specified codeine combos.",
+    "topicTags": [
+      "schedules"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "med-p22",
+    "domain": "medications",
+    "stem": "Rivaroxaban is a:",
+    "choices": [
+      "Factor Xa inhibitor DOAC",
+      "Vitamin K antagonist",
+      "Antiplatelet",
+      "Heparin"
+    ],
+    "correctIndex": 0,
+    "rationale": "Rivaroxaban (Xarelto) inhibits factor Xa.",
+    "topicTags": [
+      "anticoagulant"
+    ],
+    "paidOnly": true,
+    "needsReview": true
+  },
+  {
+    "id": "med-p23",
+    "domain": "medications",
+    "stem": "Which brand matches generic rosuvastatin?",
+    "choices": [
+      "Crestor",
+      "Lipitor",
+      "Zocor",
+      "Mevacor"
+    ],
+    "correctIndex": 0,
+    "rationale": "Crestor is rosuvastatin.",
+    "topicTags": [
+      "brand-generic",
+      "statins"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "med-p24",
+    "domain": "medications",
+    "stem": "Topiramate is commonly used for:",
+    "choices": [
+      "Seizure disorders and migraine prevention",
+      "Acute gout flare only",
+      "OTC allergy relief",
+      "Vitamin C deficiency"
+    ],
+    "correctIndex": 0,
+    "rationale": "Topiramate has anticonvulsant and migraine prophylaxis uses.",
+    "topicTags": [
+      "neurology"
+    ],
+    "paidOnly": true,
+    "needsReview": true
+  },
+  {
+    "id": "med-p25",
+    "domain": "medications",
+    "stem": "Which statement about Schedule I drugs is correct?",
+    "choices": [
+      "They have no currently accepted medical use federally and high abuse potential",
+      "They are OTC cough syrups",
+      "They may be prescribed like Schedule II with refills",
+      "They include alprazolam"
+    ],
+    "correctIndex": 0,
+    "rationale": "Schedule I agents lack accepted medical use under federal CSA framing.",
+    "topicTags": [
+      "schedules"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "med-p26",
+    "domain": "medications",
+    "stem": "Buspirone is primarily used for:",
+    "choices": [
+      "Anxiety",
+      "Acute bacterial sinusitis",
+      "Hyperlipidemia",
+      "Insomnia as a Z-drug"
+    ],
+    "correctIndex": 0,
+    "rationale": "Buspirone is an anxiolytic (not a benzodiazepine).",
+    "topicTags": [
+      "psychiatric"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "med-p27",
+    "domain": "medications",
+    "stem": "Which medication is a calcium channel blocker?",
+    "choices": [
+      "amlodipine",
+      "lisinopril",
+      "losartan",
+      "metoprolol"
+    ],
+    "correctIndex": 0,
+    "rationale": "Amlodipine is a dihydropyridine CCB.",
+    "topicTags": [
+      "cardiovascular"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "med-p28",
+    "domain": "medications",
+    "stem": "Finasteride is commonly used for:",
+    "choices": [
+      "BPH and male pattern hair loss (indication-specific products)",
+      "Acute asthma exacerbation",
+      "Hypokalemia",
+      "Opioid reversal"
+    ],
+    "correctIndex": 0,
+    "rationale": "Finasteride inhibits 5-alpha reductase for BPH/alopecia products.",
+    "topicTags": [
+      "urology"
+    ],
+    "paidOnly": true,
+    "needsReview": true
+  },
+  {
+    "id": "fed-001",
+    "domain": "federal_requirements",
+    "stem": "Under the Combat Methamphetamine Epidemic Act, which statement about pseudoephedrine sales is most accurate at a high level?",
+    "choices": [
+      "Daily and 30-day purchase limits apply, with logbook and ID requirements in regulated sellers",
+      "There are no federal quantity limits if the product is behind the counter",
+      "Pseudoephedrine may be sold freely like regular OTC candy",
+      "Only Schedule II prescriptions can include pseudoephedrine"
+    ],
+    "correctIndex": 0,
+    "rationale": "CMEA sets purchase limits and requires ID/logbook processes for regulated sellers.",
+    "topicTags": [
+      "pseudoephedrine",
+      "CMEA"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "fed-002",
+    "domain": "federal_requirements",
+    "stem": "HIPAA's minimum necessary standard generally means:",
+    "choices": [
+      "Use or disclose only the PHI needed for the intended purpose",
+      "Share full charts with any caller who knows the patient name",
+      "Post PHI on social media if de-identified by first name only",
+      "Technicians may never view any PHI"
+    ],
+    "correctIndex": 0,
+    "rationale": "Minimum necessary limits PHI use/disclosure to what is needed.",
+    "topicTags": [
+      "HIPAA",
+      "privacy"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "fed-003",
+    "domain": "federal_requirements",
+    "stem": "DSCSA primarily addresses:",
+    "choices": [
+      "Pharmaceutical supply chain security and tracing of certain prescription products",
+      "Medicare Part D premium calculations",
+      "Technician national certification fees",
+      "USP compounding chapter numbering only"
+    ],
+    "correctIndex": 0,
+    "rationale": "The Drug Supply Chain Security Act focuses on tracing and suspect product handling.",
+    "topicTags": [
+      "DSCSA",
+      "supply-chain"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "fed-004",
+    "domain": "federal_requirements",
+    "stem": "A Class I FDA recall typically involves:",
+    "choices": [
+      "A situation where use/exposure may cause serious adverse health consequences or death",
+      "Only labeling typos with no health risk",
+      "Voluntary market withdrawals for marketing reasons only",
+      "Recalls limited to veterinary feed"
+    ],
+    "correctIndex": 0,
+    "rationale": "Class I recalls involve reasonable probability of serious harm or death.",
+    "topicTags": [
+      "recalls",
+      "FDA"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "fed-005",
+    "domain": "federal_requirements",
+    "stem": "Which DEA form is historically associated with ordering Schedule I/II controlled substances?",
+    "choices": [
+      "DEA Form 222",
+      "DEA Form 41 only for all retail sales",
+      "CMS-1500",
+      "FDA Form 3500A only"
+    ],
+    "correctIndex": 0,
+    "rationale": "DEA Form 222 (and electronic CSOS) is used for CI/CII ordering.",
+    "topicTags": [
+      "DEA",
+      "controlled-substances"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "fed-006",
+    "domain": "federal_requirements",
+    "stem": "Protected Health Information (PHI) under HIPAA includes:",
+    "choices": [
+      "Individually identifiable health information held by covered entities/business associates",
+      "Only paper prescriptions older than 10 years",
+      "Drug prices on a public website with no patient data",
+      "DEA registrant numbers of pharmacies alone"
+    ],
+    "correctIndex": 0,
+    "rationale": "PHI is individually identifiable health information in covered contexts.",
+    "topicTags": [
+      "HIPAA"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "fed-007",
+    "domain": "federal_requirements",
+    "stem": "A Class III recall generally indicates:",
+    "choices": [
+      "Use/exposure is not likely to cause adverse health consequences",
+      "Immediate life-threatening risk in all cases",
+      "Automatic criminal liability for technicians",
+      "That the product is Schedule I"
+    ],
+    "correctIndex": 0,
+    "rationale": "Class III: not likely to cause adverse health consequences.",
+    "topicTags": [
+      "recalls"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "fed-008",
+    "domain": "federal_requirements",
+    "stem": "Under DSCSA concepts, a suspect product is one that:",
+    "choices": [
+      "A trading partner has reason to believe may be counterfeit, diverted, stolen, or otherwise unfit",
+      "Has a higher copay than expected",
+      "Was dispensed with a counseling offer declined",
+      "Is within 90 days of beyond-use date only"
+    ],
+    "correctIndex": 0,
+    "rationale": "Suspect product determinations relate to potential illegitimate supply-chain issues.",
+    "topicTags": [
+      "DSCSA"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "fed-009",
+    "domain": "federal_requirements",
+    "stem": "Federal controlled substance schedules range from:",
+    "choices": [
+      "Schedule I (highest abuse / no accepted medical use federally) through Schedule V",
+      "Schedule A through Schedule E only",
+      "OTC Tier 1 through 3",
+      "USP Chapters 795 through 800"
+    ],
+    "correctIndex": 0,
+    "rationale": "CSA schedules are I through V.",
+    "topicTags": [
+      "schedules",
+      "CSA"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "fed-010",
+    "domain": "federal_requirements",
+    "stem": "Which practice best aligns with HIPAA privacy in a retail pharmacy?",
+    "choices": [
+      "Verify identity appropriately before discussing therapy details and avoid public PHI disclosure",
+      "Announce full medication lists over the intercom",
+      "Email PHI to personal accounts without safeguards because it is faster",
+      "Leave printed labels face-up at the register overnight"
+    ],
+    "correctIndex": 0,
+    "rationale": "Identity verification and safeguarding PHI are core privacy practices.",
+    "topicTags": [
+      "HIPAA"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "fed-011",
+    "domain": "federal_requirements",
+    "stem": "Pseudoephedrine purchase limits under federal CMEA for retail sellers are commonly described as:",
+    "choices": [
+      "3.6 g/day and 9 g/30 days (base) with nuances by package and seller type",
+      "Unlimited if the buyer is over 18",
+      "1 tablet per lifetime",
+      "Only applicable to Schedule II prescriptions"
+    ],
+    "correctIndex": 0,
+    "rationale": "Federal retail limits are commonly taught as 3.6 g/day and 9 g per 30 days.",
+    "topicTags": [
+      "pseudoephedrine",
+      "CMEA"
+    ],
+    "paidOnly": false,
+    "needsReview": true
+  },
+  {
+    "id": "fed-012",
+    "domain": "federal_requirements",
+    "stem": "A Class II recall typically means:",
+    "choices": [
+      "Use/exposure may cause temporary or medically reversible adverse health consequences, or serious harm probability is remote",
+      "Certain death in all exposed patients",
+      "No FDA involvement ever",
+      "Automatic Schedule II reclassification"
+    ],
+    "correctIndex": 0,
+    "rationale": "Class II involves temporary/reversible consequences or remote probability of serious harm.",
+    "topicTags": [
+      "recalls"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "fed-013",
+    "domain": "federal_requirements",
+    "stem": "Which statement about transferring prescriptions for controlled substances is most accurate at a federal awareness level?",
+    "choices": [
+      "Federal rules differ by schedule; CII transfers are highly restricted compared with III-V in many contexts",
+      "Any controlled prescription may be transferred unlimited times like noncontrols",
+      "Technicians may independently authorize interstate CII transfers without a pharmacist",
+      "HIPAA bans all transfers"
+    ],
+    "correctIndex": 0,
+    "rationale": "CII transfer rules are stricter; III-V have specific allowance frameworks. Exact current electronic exceptions are QC-sensitive.",
+    "topicTags": [
+      "controlled-substances",
+      "transfers"
+    ],
+    "paidOnly": false,
+    "needsReview": true
+  },
+  {
+    "id": "fed-014",
+    "domain": "federal_requirements",
+    "stem": "Covered entities under HIPAA generally include:",
+    "choices": [
+      "Health plans, health care clearinghouses, and health care providers who transmit certain electronic transactions",
+      "Only software vendors",
+      "Only cash-pay compounding pharmacies outside the US",
+      "Patients themselves as covered entities"
+    ],
+    "correctIndex": 0,
+    "rationale": "The classic covered entity triad is plans, clearinghouses, and specified providers.",
+    "topicTags": [
+      "HIPAA"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "fed-015",
+    "domain": "federal_requirements",
+    "stem": "Product identifiers used in DSCSA tracing commonly include:",
+    "choices": [
+      "NDC, serial number, lot, and expiration in a standardized identifier package",
+      "Only the patient's date of birth",
+      "Only the pharmacy NPI",
+      "Only the AWP"
+    ],
+    "correctIndex": 0,
+    "rationale": "DSCSA serialization uses NDC, serial, lot, and expiration elements.",
+    "topicTags": [
+      "DSCSA",
+      "NDC"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "fed-016",
+    "domain": "federal_requirements",
+    "stem": "Which action is inappropriate regarding PHI?",
+    "choices": [
+      "Discussing a patient's HIV therapy loudly in a crowded waiting area",
+      "Using a private counseling area when available",
+      "Logging off shared terminals",
+      "Using minimum necessary for insurance helpdesk calls"
+    ],
+    "correctIndex": 0,
+    "rationale": "Public discussion of sensitive PHI violates privacy expectations.",
+    "topicTags": [
+      "HIPAA"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "fed-017",
+    "domain": "federal_requirements",
+    "stem": "Federal law places heroin in which schedule?",
+    "choices": [
+      "Schedule I",
+      "Schedule II",
+      "Schedule III",
+      "Schedule V"
+    ],
+    "correctIndex": 0,
+    "rationale": "Heroin is Schedule I federally.",
+    "topicTags": [
+      "schedules"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "fed-018",
+    "domain": "federal_requirements",
+    "stem": "When a recall is issued, pharmacy staff should generally:",
+    "choices": [
+      "Follow pharmacy policies to identify, quarantine, and process affected stock and notify appropriate parties per protocol",
+      "Ignore Class II and III recalls",
+      "Destroy all inventory of that manufacturer regardless of lot",
+      "Post patient names online for transparency"
+    ],
+    "correctIndex": 0,
+    "rationale": "Recall response is lot/product-specific and policy-driven.",
+    "topicTags": [
+      "recalls",
+      "quality"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "fed-019",
+    "domain": "federal_requirements",
+    "stem": "Which best describes a business associate under HIPAA?",
+    "choices": [
+      "A person/entity that performs functions involving PHI for a covered entity under a BAA",
+      "Any customer who pays cash",
+      "Any drug wholesaler employee off duty",
+      "A patient's family member"
+    ],
+    "correctIndex": 0,
+    "rationale": "Business associates handle PHI on behalf of covered entities under agreements.",
+    "topicTags": [
+      "HIPAA"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "fed-p01",
+    "domain": "federal_requirements",
+    "stem": "Which statement about OTC pseudoephedrine is true?",
+    "choices": [
+      "It is kept behind the counter with ID/log requirements in regulated retail settings",
+      "It is Schedule II requiring a written Rx always",
+      "It has no purchase tracking",
+      "It may be sold to minors without restriction federally"
+    ],
+    "correctIndex": 0,
+    "rationale": "CMEA places PSE behind the counter with ID/log rules.",
+    "topicTags": [
+      "pseudoephedrine"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "fed-p02",
+    "domain": "federal_requirements",
+    "stem": "Illegitimate product under DSCSA concepts includes product that:",
+    "choices": [
+      "Is counterfeit, diverted, or stolen, among other unfit categories",
+      "Has a patient-preferred flavor",
+      "Was dispensed with a coupon",
+      "Has a high deductible plan"
+    ],
+    "correctIndex": 0,
+    "rationale": "Illegitimate products include counterfeit/diverted/stolen etc.",
+    "topicTags": [
+      "DSCSA"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "fed-p03",
+    "domain": "federal_requirements",
+    "stem": "Which is an example of safeguarding PHI?",
+    "choices": [
+      "Placing discarded labels in secure PHI destruction bins",
+      "Throwing labeled vials in open dumpsters",
+      "Texting full Rx images to friends for help",
+      "Leaving monitors unlocked overnight"
+    ],
+    "correctIndex": 0,
+    "rationale": "Secure destruction protects PHI.",
+    "topicTags": [
+      "HIPAA"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "fed-p04",
+    "domain": "federal_requirements",
+    "stem": "DEA registrant pharmacies must follow controlled substance inventory and recordkeeping rules that generally require:",
+    "choices": [
+      "Accurate records of receipt and dispensing of controlled substances",
+      "No records if the drug is paid cash",
+      "Verbal-only logs without dates",
+      "Storing CII with OTC candy"
+    ],
+    "correctIndex": 0,
+    "rationale": "CSA requires controlled substance records.",
+    "topicTags": [
+      "DEA",
+      "recordkeeping"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "fed-p05",
+    "domain": "federal_requirements",
+    "stem": "Which recall class is most severe regarding health risk?",
+    "choices": [
+      "Class I",
+      "Class II",
+      "Class III",
+      "Class IV"
+    ],
+    "correctIndex": 0,
+    "rationale": "Class I is the most severe health-risk recall class.",
+    "topicTags": [
+      "recalls"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "fed-p06",
+    "domain": "federal_requirements",
+    "stem": "A valid prescription for a controlled substance generally requires:",
+    "choices": [
+      "A legitimate medical purpose and issuance by a DEA-authorized practitioner within legal requirements",
+      "Only a nurse's verbal request without practitioner involvement",
+      "Patient self-certification online",
+      "A technician's signature alone"
+    ],
+    "correctIndex": 0,
+    "rationale": "Corresponding responsibility and valid practitioner issuance are foundational.",
+    "topicTags": [
+      "controlled-substances"
+    ],
+    "paidOnly": true,
+    "needsReview": true
+  },
+  {
+    "id": "fed-p07",
+    "domain": "federal_requirements",
+    "stem": "Which is a HIPAA administrative safeguard concept example?",
+    "choices": [
+      "Workforce training and access management policies",
+      "Leaving charts in rideshare vehicles",
+      "Public livestream counseling",
+      "Sharing passwords on sticky notes"
+    ],
+    "correctIndex": 0,
+    "rationale": "Admin safeguards include policies, training, and access management.",
+    "topicTags": [
+      "HIPAA"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "fed-p08",
+    "domain": "federal_requirements",
+    "stem": "Transaction information/history/statement concepts in DSCSA relate to:",
+    "choices": [
+      "Passing tracing data as products move through the supply chain",
+      "Patient counseling scripts",
+      "Technician certification CE",
+      "USP media fill tests"
+    ],
+    "correctIndex": 0,
+    "rationale": "TI/TH/TS support interoperable tracing.",
+    "topicTags": [
+      "DSCSA"
+    ],
+    "paidOnly": true,
+    "needsReview": true
+  },
+  {
+    "id": "fed-p09",
+    "domain": "federal_requirements",
+    "stem": "Which best describes Schedule V relative to Schedule II?",
+    "choices": [
+      "Lower abuse potential relative ranking than Schedule II, with accepted medical use",
+      "Higher abuse potential than Schedule I",
+      "No medical use",
+      "Identical refill rules to CII always"
+    ],
+    "correctIndex": 0,
+    "rationale": "Schedule V has lower relative abuse potential than II through IV.",
+    "topicTags": [
+      "schedules"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "fed-p10",
+    "domain": "federal_requirements",
+    "stem": "Patient authorization is generally needed before:",
+    "choices": [
+      "Disclosing PHI for marketing unrelated to treatment/payment/operations",
+      "Submitting claims for treatment payment",
+      "Sharing PHI among treatment team members for care",
+      "Filling a prescription presented by the patient"
+    ],
+    "correctIndex": 0,
+    "rationale": "Marketing disclosures often need authorization; TPO has pathways.",
+    "topicTags": [
+      "HIPAA"
+    ],
+    "paidOnly": true,
+    "needsReview": true
+  },
+  {
+    "id": "fed-p11",
+    "domain": "federal_requirements",
+    "stem": "Which agency is primarily associated with drug recalls in the US?",
+    "choices": [
+      "FDA",
+      "DEA only",
+      "FCC",
+      "USP Convention as a regulatory enforcer"
+    ],
+    "correctIndex": 0,
+    "rationale": "FDA leads drug recall classification/oversight.",
+    "topicTags": [
+      "recalls",
+      "FDA"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "fed-p12",
+    "domain": "federal_requirements",
+    "stem": "Federal PSE logbooks generally must capture:",
+    "choices": [
+      "Purchaser identity elements and product/quantity/date information as required",
+      "Patient diagnosis codes only",
+      "Only the cashier's favorite color",
+      "Physician DEA numbers for OTC sales"
+    ],
+    "correctIndex": 0,
+    "rationale": "CMEA log elements include ID and transaction details.",
+    "topicTags": [
+      "pseudoephedrine"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "fed-p13",
+    "domain": "federal_requirements",
+    "stem": "Corresponding responsibility for controlled prescriptions means:",
+    "choices": [
+      "Pharmacists share responsibility for ensuring prescriptions are valid/legitimate",
+      "Technicians may ignore red flags if sales are high",
+      "Wholesalers write prescriptions",
+      "Patients set their own schedules"
+    ],
+    "correctIndex": 0,
+    "rationale": "Corresponding responsibility is a core CSA concept for pharmacists.",
+    "topicTags": [
+      "controlled-substances"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "fed-p14",
+    "domain": "federal_requirements",
+    "stem": "Which is NOT an appropriate PHI practice?",
+    "choices": [
+      "Discussing a famous patient's therapy with the media for publicity",
+      "Using encrypted email per policy",
+      "Verifying caller identity",
+      "Need-to-know access for staff"
+    ],
+    "correctIndex": 0,
+    "rationale": "Media disclosures of PHI without authorization are improper.",
+    "topicTags": [
+      "HIPAA"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "fed-p15",
+    "domain": "federal_requirements",
+    "stem": "Stolen prescription bottles found in the supply chain should be treated under DSCSA concepts as potentially:",
+    "choices": [
+      "Illegitimate / suspect and handled per investigation procedures",
+      "Ordinary overstock",
+      "Marketing samples",
+      "Non-recall Class IV"
+    ],
+    "correctIndex": 0,
+    "rationale": "Stolen product is a classic illegitimate category.",
+    "topicTags": [
+      "DSCSA"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "fed-p16",
+    "domain": "federal_requirements",
+    "stem": "Which statement about CII prescriptions is generally true federally?",
+    "choices": [
+      "Refills are not permitted in the same way as noncontrols; issuance/partial fill rules are specialized",
+      "They may have unlimited refills for 1 year always",
+      "They are OTC with ID",
+      "They never require a prescription"
+    ],
+    "correctIndex": 0,
+    "rationale": "CIIs have strict refill/issuance rules.",
+    "topicTags": [
+      "controlled-substances"
+    ],
+    "paidOnly": true,
+    "needsReview": true
+  },
+  {
+    "id": "fed-p17",
+    "domain": "federal_requirements",
+    "stem": "A notice of privacy practices is associated with:",
+    "choices": [
+      "HIPAA transparency about how PHI is used and disclosed",
+      "DEA Form 106 only",
+      "DSCSA serialization barcodes",
+      "USP <797> air changes"
+    ],
+    "correctIndex": 0,
+    "rationale": "NPPs inform patients about PHI practices.",
+    "topicTags": [
+      "HIPAA"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "fed-p18",
+    "domain": "federal_requirements",
+    "stem": "Which best matches Class II recall risk language?",
+    "choices": [
+      "Temporary or medically reversible adverse consequences; serious harm remote",
+      "No risk wording exists for Class II",
+      "Always fatal",
+      "Only applies to devices, never drugs"
+    ],
+    "correctIndex": 0,
+    "rationale": "Standard Class II definition.",
+    "topicTags": [
+      "recalls"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "fed-p19",
+    "domain": "federal_requirements",
+    "stem": "Pharmacy theft of controlled substances generally requires:",
+    "choices": [
+      "Reporting per DEA/federal and policy requirements (e.g., significant loss pathways)",
+      "No reporting if under $5",
+      "Only a social media post",
+      "Waiting 1 year before any report"
+    ],
+    "correctIndex": 0,
+    "rationale": "Significant loss/theft has DEA reporting expectations.",
+    "topicTags": [
+      "DEA"
+    ],
+    "paidOnly": true,
+    "needsReview": true
+  },
+  {
+    "id": "fed-p20",
+    "domain": "federal_requirements",
+    "stem": "Which identifier is most directly a drug product packaging code concept used in the US?",
+    "choices": [
+      "NDC",
+      "VIN",
+      "ISBN",
+      "SSN"
+    ],
+    "correctIndex": 0,
+    "rationale": "National Drug Code identifies labeler/product/package.",
+    "topicTags": [
+      "NDC"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "fed-p21",
+    "domain": "federal_requirements",
+    "stem": "Minimum necessary does NOT typically require:",
+    "choices": [
+      "Refusing to use any PHI even when needed for dispensing",
+      "Limiting chart access by role",
+      "Avoiding hallway PHI gossip",
+      "Redacting extra pages when faxing to a payer if policy says so"
+    ],
+    "correctIndex": 0,
+    "rationale": "Minimum necessary still allows needed PHI for treatment/payment/operations.",
+    "topicTags": [
+      "HIPAA"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "fed-p22",
+    "domain": "federal_requirements",
+    "stem": "Which is a federal agency primarily enforcing controlled substance laws?",
+    "choices": [
+      "DEA",
+      "FTC for all CSA schedules",
+      "Postal Service as sole CSA enforcer",
+      "Local school boards"
+    ],
+    "correctIndex": 0,
+    "rationale": "DEA enforces the CSA.",
+    "topicTags": [
+      "DEA"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "saf-001",
+    "domain": "patient_safety",
+    "stem": "Which pair is a classic look-alike/sound-alike (LASA) risk example?",
+    "choices": [
+      "hydralazine and hydroxyzine",
+      "amoxicillin and acetaminophen",
+      "metformin and montelukast",
+      "ibuprofen and insulin glargine"
+    ],
+    "correctIndex": 0,
+    "rationale": "Hydralazine and hydroxyzine are frequently cited LASA pair.",
+    "topicTags": [
+      "LASA",
+      "error-prevention"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "saf-002",
+    "domain": "patient_safety",
+    "stem": "Tall man lettering is primarily used to:",
+    "choices": [
+      "Differentiate look-alike drug names by capitalizing dissimilar syllables",
+      "Increase font size on all OTC labels only",
+      "Replace barcode scanning",
+      "Indicate Schedule II status"
+    ],
+    "correctIndex": 0,
+    "rationale": "Tall man lettering highlights differing parts of similar names (e.g., hydrALAZINE vs hydrOXYzine).",
+    "topicTags": [
+      "LASA",
+      "tall-man"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "saf-003",
+    "domain": "patient_safety",
+    "stem": "Which medication class is commonly on high-alert lists?",
+    "choices": [
+      "Insulins",
+      "Most topical emollients",
+      "Artificial tears",
+      "Oral rehydration salts"
+    ],
+    "correctIndex": 0,
+    "rationale": "Insulins are classic high-alert medications.",
+    "topicTags": [
+      "high-alert"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "saf-004",
+    "domain": "patient_safety",
+    "stem": "Barcode scanning at product selection primarily helps:",
+    "choices": [
+      "Verify the selected package matches the intended product",
+      "Replace the need for a prescription",
+      "Calculate days supply automatically in all cases",
+      "Satisfy HIPAA training alone"
+    ],
+    "correctIndex": 0,
+    "rationale": "Barcode verification reduces wrong-drug/wrong-strength selection errors.",
+    "topicTags": [
+      "error-prevention",
+      "barcode"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "saf-005",
+    "domain": "patient_safety",
+    "stem": "An independent double-check is most appropriate for:",
+    "choices": [
+      "Certain high-alert preparations where policy requires a second qualified person to verify",
+      "Every OTC candy sale",
+      "Only when the patient requests a coupon",
+      "Shipping non-pharma sundries"
+    ],
+    "correctIndex": 0,
+    "rationale": "Independent double-checks are a high-alert safety strategy.",
+    "topicTags": [
+      "high-alert",
+      "error-prevention"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "saf-006",
+    "domain": "patient_safety",
+    "stem": "Which is a near-miss in medication safety language?",
+    "choices": [
+      "An error that was caught before reaching the patient",
+      "A correctly dispensed prescription",
+      "A paid claim",
+      "A Class III recall only"
+    ],
+    "correctIndex": 0,
+    "rationale": "Near-misses are intercepted errors valuable for learning systems.",
+    "topicTags": [
+      "quality",
+      "reporting"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "saf-007",
+    "domain": "patient_safety",
+    "stem": "Which practice reduces LASA errors?",
+    "choices": [
+      "Separating storage of commonly confused products and using alerts",
+      "Storing all bottles alphabetically by color only",
+      "Removing NDC from labels",
+      "Turning off computer warnings permanently"
+    ],
+    "correctIndex": 0,
+    "rationale": "Physical separation and system alerts mitigate LASA risk.",
+    "topicTags": [
+      "LASA",
+      "error-prevention"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "saf-008",
+    "domain": "patient_safety",
+    "stem": "Concentrated electrolyte vials (e.g., potassium chloride for injection concentrate) are high-alert because:",
+    "choices": [
+      "Wrong dose/route can be fatal",
+      "They are Schedule I",
+      "They lack NDCs",
+      "They are always oral only"
+    ],
+    "correctIndex": 0,
+    "rationale": "Injectable concentrated electrolytes can cause fatal harm if misused.",
+    "topicTags": [
+      "high-alert",
+      "electrolytes"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "saf-009",
+    "domain": "patient_safety",
+    "stem": "Which is a quality assurance activity?",
+    "choices": [
+      "Tracking and trending dispensing error reports to improve processes",
+      "Deleting error logs to improve metrics",
+      "Ignoring recurring near-misses",
+      "Disabling barcode scanners to speed workflow"
+    ],
+    "correctIndex": 0,
+    "rationale": "QA uses data from errors/near-misses to improve systems.",
+    "topicTags": [
+      "quality"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "saf-010",
+    "domain": "patient_safety",
+    "stem": "Which pair is another common LASA example?",
+    "choices": [
+      "clonidine and clonazepam",
+      "lisinopril and losartan only as LASA exclusive pair",
+      "water and saline always",
+      "gloves and gauze"
+    ],
+    "correctIndex": 0,
+    "rationale": "Clonidine and clonazepam are a known confused name pair.",
+    "topicTags": [
+      "LASA"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "saf-011",
+    "domain": "patient_safety",
+    "stem": "Hand hygiene in pharmacy operations primarily supports:",
+    "choices": [
+      "Infection control and product/patient safety",
+      "Faster insurance adjudication",
+      "DSCSA serialization",
+      "DEA Form 222 completion"
+    ],
+    "correctIndex": 0,
+    "rationale": "Hand hygiene is foundational infection control.",
+    "topicTags": [
+      "infection-control"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "saf-012",
+    "domain": "patient_safety",
+    "stem": "Which action best prevents wrong-patient errors?",
+    "choices": [
+      "Using two patient identifiers before dispensing counseling or handoff",
+      "Calling only first names in a busy waiting room",
+      "Skipping DOB checks for regulars",
+      "Using bag tags without verification"
+    ],
+    "correctIndex": 0,
+    "rationale": "Two identifiers (e.g., name + DOB) reduce wrong-patient events.",
+    "topicTags": [
+      "error-prevention"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "saf-013",
+    "domain": "patient_safety",
+    "stem": "Chemotherapy agents are high-alert primarily due to:",
+    "choices": [
+      "Narrow therapeutic index and severe toxicity risk from errors",
+      "Being OTC",
+      "Lacking any labeling",
+      "Never requiring PPE"
+    ],
+    "correctIndex": 0,
+    "rationale": "Antineoplastics can cause severe harm from dosing/handling errors.",
+    "topicTags": [
+      "high-alert",
+      "hazardous-drugs"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "saf-014",
+    "domain": "patient_safety",
+    "stem": "Which best describes a root cause analysis goal?",
+    "choices": [
+      "Identify system factors contributing to an event to prevent recurrence",
+      "Assign maximum personal blame only",
+      "Hide findings from leadership",
+      "Increase speed without process review"
+    ],
+    "correctIndex": 0,
+    "rationale": "RCA focuses on systems improvement, not solely blame.",
+    "topicTags": [
+      "quality"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "saf-015",
+    "domain": "patient_safety",
+    "stem": "Using oral syringes that cannot connect to IV lines is an example of:",
+    "choices": [
+      "A forcing function / device design to prevent wrong-route errors",
+      "A HIPAA safeguard",
+      "A DSCSA tracing tool",
+      "A Schedule V requirement"
+    ],
+    "correctIndex": 0,
+    "rationale": "Incompatibility of oral syringes with IV ports prevents accidental IV administration of oral liquids.",
+    "topicTags": [
+      "error-prevention",
+      "high-alert"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "saf-016",
+    "domain": "patient_safety",
+    "stem": "Which is appropriate when a dispensing error reaches a patient?",
+    "choices": [
+      "Follow pharmacy policy for disclosure, documentation, and clinical follow-up with pharmacist involvement",
+      "Delete the profile and deny it occurred",
+      "Ask the patient to post on social media first",
+      "Ignore if the drug was inexpensive"
+    ],
+    "correctIndex": 0,
+    "rationale": "Error response requires policy-based disclosure and documentation.",
+    "topicTags": [
+      "quality",
+      "reporting"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "saf-017",
+    "domain": "patient_safety",
+    "stem": "Look-alike packaging risk is reduced by:",
+    "choices": [
+      "Careful stock checks and avoiding adjacent storage of confusing packages",
+      "Turning bottles upside down randomly",
+      "Removing barcodes",
+      "Printing labels without drug names"
+    ],
+    "correctIndex": 0,
+    "rationale": "Packaging similarity contributes to selection errors; storage and verification help.",
+    "topicTags": [
+      "LASA",
+      "error-prevention"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "saf-018",
+    "domain": "patient_safety",
+    "stem": "Which medication is commonly considered high-alert in community and hospital lists?",
+    "choices": [
+      "warfarin",
+      "multivitamin gummies",
+      "normal saline nasal spray",
+      "petroleum jelly"
+    ],
+    "correctIndex": 0,
+    "rationale": "Anticoagulants like warfarin are high-alert.",
+    "topicTags": [
+      "high-alert",
+      "anticoagulant"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "saf-019",
+    "domain": "patient_safety",
+    "stem": "Sterile compounding areas require attention to:",
+    "choices": [
+      "Aseptic technique and contamination control per applicable USP standards and policy",
+      "Eating lunch inside the primary engineering control",
+      "Using street clothes without garbing when rushed",
+      "Skipping hand hygiene if gloves are used alone always"
+    ],
+    "correctIndex": 0,
+    "rationale": "Aseptic technique and garbing protect sterile preparations.",
+    "topicTags": [
+      "infection-control",
+      "compounding"
+    ],
+    "paidOnly": false,
+    "needsReview": true
+  },
+  {
+    "id": "saf-020",
+    "domain": "patient_safety",
+    "stem": "Which is a safe practice for pediatric liquid dosing?",
+    "choices": [
+      "Using an appropriate metric measuring device and verifying concentration",
+      "Estimating with kitchen spoons",
+      "Rounding all doses to adult tablet strengths blindly",
+      "Ignoring weight-based orders"
+    ],
+    "correctIndex": 0,
+    "rationale": "Metric devices and concentration checks prevent pediatric dosing errors.",
+    "topicTags": [
+      "error-prevention",
+      "calculations"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "saf-021",
+    "domain": "patient_safety",
+    "stem": "Adverse drug event reporting systems are valuable because they:",
+    "choices": [
+      "Help identify patterns and improve safety culture",
+      "Are only for lawsuits",
+      "Replace the need for pharmacist judgment",
+      "Are illegal under HIPAA always"
+    ],
+    "correctIndex": 0,
+    "rationale": "Reporting supports learning and prevention.",
+    "topicTags": [
+      "reporting",
+      "quality"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "saf-022",
+    "domain": "patient_safety",
+    "stem": "Which strategy helps prevent insulin mix-ups?",
+    "choices": [
+      "Differentiating products carefully, verifying concentration (U-100 vs U-500), and using barcodes",
+      "Storing all insulin pens in one unmarked bin",
+      "Assuming all pens are U-100 without checking",
+      "Removing carton labels to save space"
+    ],
+    "correctIndex": 0,
+    "rationale": "Concentration and product differentiation are critical for insulin safety.",
+    "topicTags": [
+      "high-alert",
+      "insulin"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "saf-023",
+    "domain": "patient_safety",
+    "stem": "A culture of safety encourages:",
+    "choices": [
+      "Reporting mistakes and near-misses without fear of unfair punishment for honest system issues",
+      "Hiding errors to protect metrics",
+      "Punishing only the last person who touched the Rx without system review",
+      "Disabling alerts permanently"
+    ],
+    "correctIndex": 0,
+    "rationale": "Just culture balances accountability with system learning.",
+    "topicTags": [
+      "quality"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "saf-024",
+    "domain": "patient_safety",
+    "stem": "Which is an example of a sound-alike risk?",
+    "choices": [
+      "Celebrex and Celexa",
+      "Water and saline irrigation always",
+      "Gloves and syringes",
+      "Paper bags and plastic bags"
+    ],
+    "correctIndex": 0,
+    "rationale": "Celebrex (celecoxib) and Celexa (citalopram) are a classic sound-alike pair.",
+    "topicTags": [
+      "LASA"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "saf-p01",
+    "domain": "patient_safety",
+    "stem": "Which pair is a LASA risk?",
+    "choices": [
+      "hydromorphone and morphine",
+      "toothpaste and floss",
+      "paper and labels",
+      "pens and pencils"
+    ],
+    "correctIndex": 0,
+    "rationale": "Opioid name/strength confusion is a serious LASA/high-alert issue.",
+    "topicTags": [
+      "LASA",
+      "opioids"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "saf-p02",
+    "domain": "patient_safety",
+    "stem": "Why is U-500 insulin especially high-risk?",
+    "choices": [
+      "It is five times as concentrated as U-100; dosing confusions can cause severe hypoglycemia",
+      "It is Schedule I",
+      "It cannot be refrigerated",
+      "It has no NDC"
+    ],
+    "correctIndex": 0,
+    "rationale": "U-500 concentration errors are dangerous.",
+    "topicTags": [
+      "insulin",
+      "high-alert"
+    ],
+    "paidOnly": true,
+    "needsReview": true
+  },
+  {
+    "id": "saf-p03",
+    "domain": "patient_safety",
+    "stem": "Which best reduces interruption-related errors?",
+    "choices": [
+      "Creating no-interruption zones for critical verification steps",
+      "Encouraging more simultaneous phone tasks during counting",
+      "Removing all SOPs",
+      "Playing loud music at the bench"
+    ],
+    "correctIndex": 0,
+    "rationale": "Protected time for critical tasks reduces slips.",
+    "topicTags": [
+      "error-prevention"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "saf-p04",
+    "domain": "patient_safety",
+    "stem": "Medication error reporting should ideally capture:",
+    "choices": [
+      "What happened, how it was discovered, and contributing factors",
+      "Only the patient's insurance ID",
+      "Only the technician's personal opinions of coworkers",
+      "Nothing in writing"
+    ],
+    "correctIndex": 0,
+    "rationale": "Structured reports enable analysis.",
+    "topicTags": [
+      "reporting",
+      "quality"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "saf-p05",
+    "domain": "patient_safety",
+    "stem": "Which is a high-alert category often listed by ISMP?",
+    "choices": [
+      "Opioids",
+      "Most topical steroids of low potency",
+      "Saline nasal sprays",
+      "Sunscreen"
+    ],
+    "correctIndex": 0,
+    "rationale": "Opioids are high-alert.",
+    "topicTags": [
+      "high-alert"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "saf-p06",
+    "domain": "patient_safety",
+    "stem": "Separating adult and pediatric products on shelves helps prevent:",
+    "choices": [
+      "Wrong strength/formulation selection errors",
+      "HIPAA breaches only",
+      "DSCSA failures only",
+      "DEA Form errors only"
+    ],
+    "correctIndex": 0,
+    "rationale": "Segregation reduces mix-ups.",
+    "topicTags": [
+      "error-prevention"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "saf-p07",
+    "domain": "patient_safety",
+    "stem": "Which action is unsafe?",
+    "choices": [
+      "Overriding allergy alerts without pharmacist review when clinically unclear",
+      "Stopping to clarify an unclear sig",
+      "Scanning barcodes",
+      "Asking for date of birth"
+    ],
+    "correctIndex": 0,
+    "rationale": "Allergy overrides need clinical judgment by the pharmacist.",
+    "topicTags": [
+      "error-prevention"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "saf-p08",
+    "domain": "patient_safety",
+    "stem": "Spill management for hazardous drugs should follow:",
+    "choices": [
+      "Facility hazardous drug policies and appropriate PPE/cleanup kits",
+      "Wiping with bare hands only",
+      "Using food towels from the breakroom only",
+      "Ignoring powders if small"
+    ],
+    "correctIndex": 0,
+    "rationale": "Hazardous drug spills require trained response.",
+    "topicTags": [
+      "hazardous-drugs"
+    ],
+    "paidOnly": true,
+    "needsReview": true
+  },
+  {
+    "id": "saf-p09",
+    "domain": "patient_safety",
+    "stem": "Which improves verbal order safety when verbal orders are allowed?",
+    "choices": [
+      "Read-back of the order to confirm",
+      "Guessing the drug from partial sounds",
+      "Skipping patient identifiers",
+      "Whispering unclear doses"
+    ],
+    "correctIndex": 0,
+    "rationale": "Read-back is a standard communication safety practice.",
+    "topicTags": [
+      "error-prevention"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "saf-p10",
+    "domain": "patient_safety",
+    "stem": "Why avoid trailing zeros on dose notations (e.g., 5.0 mg) in safety conventions?",
+    "choices": [
+      "They can be misread as a 10x dosing error (50 mg)",
+      "They are required by DEA",
+      "They improve DSCSA tracing",
+      "They are HIPAA mandated"
+    ],
+    "correctIndex": 0,
+    "rationale": "Trailing zeros are discouraged in many safety notation conventions.",
+    "topicTags": [
+      "error-prevention"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "saf-p11",
+    "domain": "patient_safety",
+    "stem": "Leading decimal points without a leading zero (e.g., .5 mg) are risky because:",
+    "choices": [
+      "They may be read as 5 mg",
+      "They always mean 50 mg",
+      "They are preferred notation",
+      "They only apply to OTC"
+    ],
+    "correctIndex": 0,
+    "rationale": "Use 0.5 mg style to avoid missing the decimal.",
+    "topicTags": [
+      "error-prevention"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "saf-p12",
+    "domain": "patient_safety",
+    "stem": "Which is a sterile compounding contamination risk?",
+    "choices": [
+      "Touching critical sites with non-sterile gloves/garb breaches",
+      "Proper hand hygiene and garbing",
+      "Disinfecting vials stoppers appropriately",
+      "Working within the direct compounding area correctly"
+    ],
+    "correctIndex": 0,
+    "rationale": "Touch contamination of critical sites risks sterility.",
+    "topicTags": [
+      "compounding",
+      "infection-control"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "saf-p13",
+    "domain": "patient_safety",
+    "stem": "Patient counseling offers support safety by:",
+    "choices": [
+      "Catching misunderstandings about directions, allergies, and duplicates",
+      "Replacing all pharmacist checks",
+      "Eliminating the need for labels",
+      "Allowing PHI to be shouted"
+    ],
+    "correctIndex": 0,
+    "rationale": "Counseling is a final safety net.",
+    "topicTags": [
+      "error-prevention"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "saf-p14",
+    "domain": "patient_safety",
+    "stem": "Which best describes failure mode and effects analysis (FMEA)?",
+    "choices": [
+      "A proactive method to find how a process could fail before harm occurs",
+      "Only a post-mortem autopsy of devices",
+      "A DEA inventory form",
+      "A HIPAA authorization"
+    ],
+    "correctIndex": 0,
+    "rationale": "FMEA is proactive risk assessment.",
+    "topicTags": [
+      "quality"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "saf-p15",
+    "domain": "patient_safety",
+    "stem": "Sound-alike pair example:",
+    "choices": [
+      "Zyrtec and Zyprexa",
+      "Water and ice",
+      "Bags and bottles always",
+      "Pens and markers"
+    ],
+    "correctIndex": 0,
+    "rationale": "Zyrtec (cetirizine) and Zyprexa (olanzapine) are a known confused pair.",
+    "topicTags": [
+      "LASA"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "saf-p16",
+    "domain": "patient_safety",
+    "stem": "High-alert neuromuscular blockers in hospitals require:",
+    "choices": [
+      "Special storage/labeling safeguards to prevent accidental administration to non-ventilated patients",
+      "OTC shelf placement",
+      "No labeling",
+      "Patient self-selection"
+    ],
+    "correctIndex": 0,
+    "rationale": "NMBs can cause fatal paralysis if given erroneously.",
+    "topicTags": [
+      "high-alert"
+    ],
+    "paidOnly": true,
+    "needsReview": true
+  },
+  {
+    "id": "saf-p17",
+    "domain": "patient_safety",
+    "stem": "Which practice supports cold-chain medication safety?",
+    "choices": [
+      "Monitoring refrigerator temperatures and segregating stock appropriately",
+      "Storing vaccines next to lunch foods",
+      "Ignoring temperature logs",
+      "Freezing all insulin intentionally"
+    ],
+    "correctIndex": 0,
+    "rationale": "Temperature control protects product integrity.",
+    "topicTags": [
+      "quality"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "saf-p18",
+    "domain": "patient_safety",
+    "stem": "Workaround culture (bypassing safety steps routinely) typically:",
+    "choices": [
+      "Increases latent system risk",
+      "Improves long-term safety",
+      "Is required by FDA recalls",
+      "Is a HIPAA standard"
+    ],
+    "correctIndex": 0,
+    "rationale": "Chronic workarounds signal system problems and raise risk.",
+    "topicTags": [
+      "quality"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "saf-p19",
+    "domain": "patient_safety",
+    "stem": "Which helps prevent wrong-formulation errors (e.g., ER vs IR)?",
+    "choices": [
+      "Careful NDC/label checks and system alerts for formulation",
+      "Assuming ER and IR are interchangeable always",
+      "Removing 'ER' from labels for brevity",
+      "Ignoring patient reports of different-looking tablets"
+    ],
+    "correctIndex": 0,
+    "rationale": "Extended-release vs immediate-release mix-ups are harmful.",
+    "topicTags": [
+      "error-prevention"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "saf-p20",
+    "domain": "patient_safety",
+    "stem": "A good response after a near-miss includes:",
+    "choices": [
+      "Documenting and reviewing process gaps",
+      "Mocking the staff member publicly",
+      "Deleting camera footage always",
+      "Increasing speed goals only"
+    ],
+    "correctIndex": 0,
+    "rationale": "Near-miss learning prevents future harm.",
+    "topicTags": [
+      "reporting",
+      "quality"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "saf-p21",
+    "domain": "patient_safety",
+    "stem": "Which is an infection control practice for counting trays?",
+    "choices": [
+      "Cleaning trays regularly per policy, especially after penicillin/sulfonamide counts when required",
+      "Never cleaning trays",
+      "Using the same tray for hazardous powders without containment",
+      "Licking fingers to separate counting papers"
+    ],
+    "correctIndex": 0,
+    "rationale": "Tray cleaning reduces cross-contamination/allergen residue risk.",
+    "topicTags": [
+      "infection-control"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "saf-p22",
+    "domain": "patient_safety",
+    "stem": "Multi-dose vial safety includes:",
+    "choices": [
+      "Beyond-use dating after opening per policy and aseptic access",
+      "Sharing needles between patients",
+      "Leaving vials undated indefinitely",
+      "Storing opened vials at room temp always regardless of label"
+    ],
+    "correctIndex": 0,
+    "rationale": "Opened MDVs need dating and aseptic handling.",
+    "topicTags": [
+      "infection-control"
+    ],
+    "paidOnly": true,
+    "needsReview": true
+  },
+  {
+    "id": "saf-p23",
+    "domain": "patient_safety",
+    "stem": "Which reduces distraction during final verification?",
+    "choices": [
+      "Holding non-urgent questions until the check is complete",
+      "Asking multiple questions mid-count simultaneously",
+      "Phone scrolling at the bench",
+      "Overlapping two verifications on one screen hastily"
+    ],
+    "correctIndex": 0,
+    "rationale": "Protecting attention during verification reduces slips.",
+    "topicTags": [
+      "error-prevention"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "saf-p24",
+    "domain": "patient_safety",
+    "stem": "ISMP is best known in pharmacy safety as:",
+    "choices": [
+      "An organization that publishes medication safety alerts and best practices",
+      "The federal CSA enforcement agency",
+      "A PBM adjudication switch",
+      "A state board of pharmacy"
+    ],
+    "correctIndex": 0,
+    "rationale": "ISMP provides safety guidance widely used in pharmacies.",
+    "topicTags": [
+      "quality"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "saf-p25",
+    "domain": "patient_safety",
+    "stem": "Which pair can be confused due to abbreviations?",
+    "choices": [
+      "q.d. and q.i.d. if poorly written",
+      "NDC and NPI always meaning the same",
+      "DEA and DOB",
+      "AWP and AAC always identical"
+    ],
+    "correctIndex": 0,
+    "rationale": "Dangerous abbreviation confusions are a known error source.",
+    "topicTags": [
+      "error-prevention"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "ord-001",
+    "domain": "order_entry",
+    "stem": "The sig '1 tab po bid' most nearly means:",
+    "choices": [
+      "Take one tablet by mouth twice daily",
+      "Take one tablet by mouth at bedtime",
+      "Instill one tablet in each eye daily",
+      "Take one tablespoon twice daily"
+    ],
+    "correctIndex": 0,
+    "rationale": "po = by mouth; bid = twice daily.",
+    "topicTags": [
+      "sig-codes"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "ord-002",
+    "domain": "order_entry",
+    "stem": "A patient receives 30 tablets with directions: 1 tablet by mouth twice daily. Days supply is:",
+    "choices": [
+      "15 days",
+      "30 days",
+      "60 days",
+      "7 days"
+    ],
+    "correctIndex": 0,
+    "rationale": "2 tablets/day; 30 tablets / 2 = 15 days.",
+    "topicTags": [
+      "days-supply",
+      "calculations"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "ord-003",
+    "domain": "order_entry",
+    "stem": "An NDC typically encodes which concepts?",
+    "choices": [
+      "Labeler, product, and package codes",
+      "Patient MRN, NPI, and DEA only",
+      "Only the AWP and WAC",
+      "Only the lot number"
+    ],
+    "correctIndex": 0,
+    "rationale": "NDC segments identify labeler, product, and package size.",
+    "topicTags": [
+      "NDC"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "ord-004",
+    "domain": "order_entry",
+    "stem": "The abbreviation 'prn' means:",
+    "choices": [
+      "As needed",
+      "Every morning",
+      "Before meals",
+      "Right eye"
+    ],
+    "correctIndex": 0,
+    "rationale": "prn = pro re nata = as needed.",
+    "topicTags": [
+      "sig-codes"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "ord-005",
+    "domain": "order_entry",
+    "stem": "A prescription for amoxicillin 250 mg/5 mL: give 5 mL po tid x 10 days. How many mL should be dispensed?",
+    "choices": [
+      "150 mL",
+      "50 mL",
+      "100 mL",
+      "200 mL"
+    ],
+    "correctIndex": 0,
+    "rationale": "5 mL x 3 times/day x 10 days = 150 mL.",
+    "topicTags": [
+      "calculations",
+      "days-supply"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "ord-006",
+    "domain": "order_entry",
+    "stem": "'gtt' in a sig usually means:",
+    "choices": [
+      "Drop",
+      "Gram",
+      "Tablet",
+      "Capsule"
+    ],
+    "correctIndex": 0,
+    "rationale": "gtt = gutta/guttae = drop(s).",
+    "topicTags": [
+      "sig-codes"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "ord-007",
+    "domain": "order_entry",
+    "stem": "A patient takes 1 tablet every 6 hours around the clock. Tablets needed for 30 days are:",
+    "choices": [
+      "120",
+      "30",
+      "60",
+      "90"
+    ],
+    "correctIndex": 0,
+    "rationale": "24/6 = 4 doses/day; 4 x 30 = 120 tablets.",
+    "topicTags": [
+      "calculations",
+      "days-supply"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "ord-008",
+    "domain": "order_entry",
+    "stem": "'od' as a traditional sig abbreviation most commonly means:",
+    "choices": [
+      "Right eye",
+      "Both ears",
+      "Left ear",
+      "By mouth"
+    ],
+    "correctIndex": 0,
+    "rationale": "od = oculus dexter = right eye (modern practice prefers plain language).",
+    "topicTags": [
+      "sig-codes"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "ord-009",
+    "domain": "order_entry",
+    "stem": "If a cream is applied twice daily and a 60 g tube lasts the patient 30 days at that rate, approximate daily use is:",
+    "choices": [
+      "2 g/day",
+      "1 g/day",
+      "5 g/day",
+      "10 g/day"
+    ],
+    "correctIndex": 0,
+    "rationale": "60 g / 30 days = 2 g/day.",
+    "topicTags": [
+      "calculations",
+      "days-supply"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "ord-010",
+    "domain": "order_entry",
+    "stem": "Which claim rejection concept means the drug is not covered under the plan's formulary (general awareness)?",
+    "choices": [
+      "Non-formulary / product not covered style reject",
+      "Wrong days supply always coded as refill too soon only",
+      "NDC not found meaning patient deceased",
+      "Prior auth approved"
+    ],
+    "correctIndex": 0,
+    "rationale": "Non-formulary rejects indicate coverage/formulary issues.",
+    "topicTags": [
+      "insurance"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "ord-011",
+    "domain": "order_entry",
+    "stem": "'ac' means:",
+    "choices": [
+      "Before meals",
+      "After meals",
+      "At bedtime",
+      "Right ear"
+    ],
+    "correctIndex": 0,
+    "rationale": "ac = ante cibum = before meals.",
+    "topicTags": [
+      "sig-codes"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "ord-012",
+    "domain": "order_entry",
+    "stem": "Doctor orders 500 mg; stock is 250 mg tablets. Tablets per dose:",
+    "choices": [
+      "2",
+      "1",
+      "4",
+      "0.5"
+    ],
+    "correctIndex": 0,
+    "rationale": "500/250 = 2 tablets.",
+    "topicTags": [
+      "calculations"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "ord-013",
+    "domain": "order_entry",
+    "stem": "A 10 mL vial contains 100 mg/mL. How many mg in 2.5 mL?",
+    "choices": [
+      "250 mg",
+      "100 mg",
+      "25 mg",
+      "1000 mg"
+    ],
+    "correctIndex": 0,
+    "rationale": "100 mg/mL x 2.5 mL = 250 mg.",
+    "topicTags": [
+      "calculations"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "ord-014",
+    "domain": "order_entry",
+    "stem": "'hs' traditionally means:",
+    "choices": [
+      "At bedtime",
+      "Every hour",
+      "Left eye",
+      "As directed"
+    ],
+    "correctIndex": 0,
+    "rationale": "hs = hora somni = at bedtime.",
+    "topicTags": [
+      "sig-codes"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "ord-015",
+    "domain": "order_entry",
+    "stem": "Days supply for 90 capsules, 1 cap po tid:",
+    "choices": [
+      "30 days",
+      "90 days",
+      "45 days",
+      "15 days"
+    ],
+    "correctIndex": 0,
+    "rationale": "3 capsules/day; 90/3 = 30 days.",
+    "topicTags": [
+      "days-supply",
+      "calculations"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "ord-016",
+    "domain": "order_entry",
+    "stem": "Which best describes a refill-too-soon rejection?",
+    "choices": [
+      "The plan believes insufficient time has elapsed based on prior fill days supply",
+      "The NDC is invalid",
+      "The patient name mismatches always",
+      "The drug is Schedule I"
+    ],
+    "correctIndex": 0,
+    "rationale": "Refill-too-soon is a timing/adjudication issue.",
+    "topicTags": [
+      "insurance"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "ord-017",
+    "domain": "order_entry",
+    "stem": "Convert 1 teaspoonful (using common pharmacy conversion) to mL:",
+    "choices": [
+      "5 mL",
+      "15 mL",
+      "30 mL",
+      "1 mL"
+    ],
+    "correctIndex": 0,
+    "rationale": "1 tsp = 5 mL in common pharmacy conversions.",
+    "topicTags": [
+      "calculations"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "ord-018",
+    "domain": "order_entry",
+    "stem": "'os' traditionally means:",
+    "choices": [
+      "Left eye",
+      "Right eye",
+      "Both ears",
+      "By mouth"
+    ],
+    "correctIndex": 0,
+    "rationale": "os = oculus sinister = left eye.",
+    "topicTags": [
+      "sig-codes"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "ord-019",
+    "domain": "order_entry",
+    "stem": "A prescription written for 1 tablet daily has 2 refills authorized for a noncontrolled drug. Including the original fill, maximum fills indicated are:",
+    "choices": [
+      "3",
+      "2",
+      "1",
+      "4"
+    ],
+    "correctIndex": 0,
+    "rationale": "Original + 2 refills = 3 total fills if all used.",
+    "topicTags": [
+      "refills"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "ord-020",
+    "domain": "order_entry",
+    "stem": "Weight-based dose: 10 mg/kg for a 20 kg child. Total dose:",
+    "choices": [
+      "200 mg",
+      "20 mg",
+      "10 mg",
+      "2 mg"
+    ],
+    "correctIndex": 0,
+    "rationale": "10 mg/kg x 20 kg = 200 mg.",
+    "topicTags": [
+      "calculations"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "ord-021",
+    "domain": "order_entry",
+    "stem": "'ou' traditionally means:",
+    "choices": [
+      "Both eyes",
+      "Right ear",
+      "Left ear",
+      "Each nostril only"
+    ],
+    "correctIndex": 0,
+    "rationale": "ou = oculus uterque = both eyes.",
+    "topicTags": [
+      "sig-codes"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "ord-022",
+    "domain": "order_entry",
+    "stem": "How many 5 mg tablets are needed for a total daily dose of 20 mg given as equal doses twice daily for 14 days?",
+    "choices": [
+      "56",
+      "28",
+      "14",
+      "112"
+    ],
+    "correctIndex": 0,
+    "rationale": "20 mg/day = 4 tablets/day of 5 mg; 4 x 14 = 56.",
+    "topicTags": [
+      "calculations",
+      "days-supply"
+    ],
+    "paidOnly": false,
+    "needsReview": false
+  },
+  {
+    "id": "ord-p01",
+    "domain": "order_entry",
+    "stem": "'pc' means:",
+    "choices": [
+      "After meals",
+      "Before meals",
+      "At bedtime",
+      "Each ear"
+    ],
+    "correctIndex": 0,
+    "rationale": "pc = post cibum = after meals.",
+    "topicTags": [
+      "sig-codes"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "ord-p02",
+    "domain": "order_entry",
+    "stem": "Days supply for 120 mL, 5 mL po bid:",
+    "choices": [
+      "12 days",
+      "24 days",
+      "10 days",
+      "30 days"
+    ],
+    "correctIndex": 0,
+    "rationale": "10 mL/day; 120/10 = 12 days.",
+    "topicTags": [
+      "days-supply",
+      "calculations"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "ord-p03",
+    "domain": "order_entry",
+    "stem": "1 tablespoon (common pharmacy conversion) equals:",
+    "choices": [
+      "15 mL",
+      "5 mL",
+      "30 mL",
+      "3 mL"
+    ],
+    "correctIndex": 0,
+    "rationale": "1 tbsp = 15 mL.",
+    "topicTags": [
+      "calculations"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "ord-p04",
+    "domain": "order_entry",
+    "stem": "'au' traditionally means:",
+    "choices": [
+      "Both ears",
+      "Both eyes",
+      "Left eye",
+      "Right eye"
+    ],
+    "correctIndex": 0,
+    "rationale": "au = auris uterque = both ears.",
+    "topicTags": [
+      "sig-codes"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "ord-p05",
+    "domain": "order_entry",
+    "stem": "Stock solution is 20 mg/mL; needed dose is 40 mg. Volume to draw:",
+    "choices": [
+      "2 mL",
+      "0.5 mL",
+      "4 mL",
+      "20 mL"
+    ],
+    "correctIndex": 0,
+    "rationale": "40/20 = 2 mL.",
+    "topicTags": [
+      "calculations"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "ord-p06",
+    "domain": "order_entry",
+    "stem": "Which NDC segment typically identifies the manufacturer/labeler?",
+    "choices": [
+      "The first segment (labeler code)",
+      "The patient's ZIP code",
+      "The DEA schedule number alone",
+      "The claim authorization number"
+    ],
+    "correctIndex": 0,
+    "rationale": "Labeler code is the first NDC segment.",
+    "topicTags": [
+      "NDC"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "ord-p07",
+    "domain": "order_entry",
+    "stem": "'qid' means:",
+    "choices": [
+      "Four times daily",
+      "Every other day",
+      "Once weekly",
+      "Every hour"
+    ],
+    "correctIndex": 0,
+    "rationale": "qid = four times daily.",
+    "topicTags": [
+      "sig-codes"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "ord-p08",
+    "domain": "order_entry",
+    "stem": "A 30-day supply of a drug taken once daily is transferred early at day 10 for vacation. Which statement is most accurate at a general tech level?",
+    "choices": [
+      "Plan rules and pharmacy policy determine early fill eligibility; adjudication may reject refill-too-soon",
+      "Federal law always bans any early fill for all drugs",
+      "Technicians may override any payer rule without pharmacist",
+      "Days supply math is irrelevant to rejects"
+    ],
+    "correctIndex": 0,
+    "rationale": "Early fills depend on payer rules and policy.",
+    "topicTags": [
+      "insurance",
+      "refills"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "ord-p09",
+    "domain": "order_entry",
+    "stem": "Percent strength 5% w/v means:",
+    "choices": [
+      "5 g of drug per 100 mL of solution",
+      "5 mg per 5 mL only",
+      "5 mL per 100 g always",
+      "50 g per mL"
+    ],
+    "correctIndex": 0,
+    "rationale": "% w/v is grams per 100 mL.",
+    "topicTags": [
+      "calculations"
+    ],
+    "paidOnly": true,
+    "needsReview": true
+  },
+  {
+    "id": "ord-p10",
+    "domain": "order_entry",
+    "stem": "How many grams of drug in 200 mL of a 5% w/v solution?",
+    "choices": [
+      "10 g",
+      "5 g",
+      "1 g",
+      "20 g"
+    ],
+    "correctIndex": 0,
+    "rationale": "5 g/100 mL => 10 g in 200 mL.",
+    "topicTags": [
+      "calculations"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "ord-p11",
+    "domain": "order_entry",
+    "stem": "'ad' traditionally means:",
+    "choices": [
+      "Right ear",
+      "Left ear",
+      "Both eyes",
+      "Right eye"
+    ],
+    "correctIndex": 0,
+    "rationale": "ad = auris dextra = right ear.",
+    "topicTags": [
+      "sig-codes"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "ord-p12",
+    "domain": "order_entry",
+    "stem": "Ratio strength 1:1000 as a percent is:",
+    "choices": [
+      "0.1%",
+      "1%",
+      "10%",
+      "0.01%"
+    ],
+    "correctIndex": 0,
+    "rationale": "1/1000 = 0.001 = 0.1%.",
+    "topicTags": [
+      "calculations"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "ord-p13",
+    "domain": "order_entry",
+    "stem": "If directions are 2 puffs inhaled q6h, puffs per day (around the clock):",
+    "choices": [
+      "8",
+      "2",
+      "4",
+      "6"
+    ],
+    "correctIndex": 0,
+    "rationale": "24/6 = 4 dosing times x 2 puffs = 8.",
+    "topicTags": [
+      "calculations",
+      "sig-codes"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "ord-p14",
+    "domain": "order_entry",
+    "stem": "'as' traditionally means:",
+    "choices": [
+      "Left ear",
+      "Right ear",
+      "Both eyes",
+      "Left eye"
+    ],
+    "correctIndex": 0,
+    "rationale": "as = auris sinistra = left ear.",
+    "topicTags": [
+      "sig-codes"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "ord-p15",
+    "domain": "order_entry",
+    "stem": "IV flow: 1000 mL over 8 hours. mL/hour rate:",
+    "choices": [
+      "125 mL/hr",
+      "100 mL/hr",
+      "80 mL/hr",
+      "250 mL/hr"
+    ],
+    "correctIndex": 0,
+    "rationale": "1000/8 = 125 mL/hr.",
+    "topicTags": [
+      "calculations"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "ord-p16",
+    "domain": "order_entry",
+    "stem": "A prior authorization reject generally means:",
+    "choices": [
+      "The plan requires additional approval before covering the product",
+      "The pharmacy NDC database is offline forever",
+      "The patient must pay cash only always without options",
+      "The drug is Schedule I"
+    ],
+    "correctIndex": 0,
+    "rationale": "PA rejects require plan approval workflows.",
+    "topicTags": [
+      "insurance"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "ord-p17",
+    "domain": "order_entry",
+    "stem": "Days supply for 1 inhaler with 200 actuations, 2 puffs bid:",
+    "choices": [
+      "50 days",
+      "100 days",
+      "25 days",
+      "200 days"
+    ],
+    "correctIndex": 0,
+    "rationale": "4 puffs/day; 200/4 = 50 days.",
+    "topicTags": [
+      "days-supply",
+      "calculations"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "ord-p18",
+    "domain": "order_entry",
+    "stem": "'stat' means:",
+    "choices": [
+      "Immediately",
+      "Weekly",
+      "Monthly",
+      "As needed only"
+    ],
+    "correctIndex": 0,
+    "rationale": "stat = immediately.",
+    "topicTags": [
+      "sig-codes"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "ord-p19",
+    "domain": "order_entry",
+    "stem": "Convert 0.5 g to mg:",
+    "choices": [
+      "500 mg",
+      "50 mg",
+      "5 mg",
+      "5000 mg"
+    ],
+    "correctIndex": 0,
+    "rationale": "1 g = 1000 mg; 0.5 g = 500 mg.",
+    "topicTags": [
+      "calculations"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "ord-p20",
+    "domain": "order_entry",
+    "stem": "Which best describes package size selection during product choice?",
+    "choices": [
+      "Match the ordered quantity/NDC package appropriately while checking strength and form",
+      "Always pick the largest bottle regardless of Rx",
+      "Ignore NDC package codes",
+      "Choose based on bottle color only"
+    ],
+    "correctIndex": 0,
+    "rationale": "Correct package/strength/form selection is core order processing.",
+    "topicTags": [
+      "NDC",
+      "error-prevention"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "ord-p21",
+    "domain": "order_entry",
+    "stem": "Dose is 7.5 mg; tablets are 2.5 mg. Tablets per dose:",
+    "choices": [
+      "3",
+      "2",
+      "1",
+      "4"
+    ],
+    "correctIndex": 0,
+    "rationale": "7.5/2.5 = 3.",
+    "topicTags": [
+      "calculations"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "ord-p22",
+    "domain": "order_entry",
+    "stem": "'ung' traditionally refers to:",
+    "choices": [
+      "Ointment",
+      "Spray",
+      "Patch",
+      "Capsule"
+    ],
+    "correctIndex": 0,
+    "rationale": "ung = unguentum = ointment.",
+    "topicTags": [
+      "sig-codes"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "ord-p23",
+    "domain": "order_entry",
+    "stem": "A liquid is 125 mg/5 mL. How many mL provide 250 mg?",
+    "choices": [
+      "10 mL",
+      "5 mL",
+      "2 mL",
+      "15 mL"
+    ],
+    "correctIndex": 0,
+    "rationale": "125 mg per 5 mL => 250 mg needs 10 mL.",
+    "topicTags": [
+      "calculations"
+    ],
+    "paidOnly": true,
+    "needsReview": false
+  },
+  {
+    "id": "ord-p24",
+    "domain": "order_entry",
+    "stem": "Which is true about e-prescribing controlled substances at a high level?",
+    "choices": [
+      "Federal EPCS rules require authentication/security controls beyond ordinary e-Rx",
+      "Any email from a doctor is sufficient",
+      "Paper is banned for all schedules always",
+      "Technicians can approve EPCS enrollment alone"
+    ],
+    "correctIndex": 0,
+    "rationale": "EPCS has specific security requirements.",
+    "topicTags": [
+      "controlled-substances",
+      "order-entry"
+    ],
+    "paidOnly": true,
+    "needsReview": true
+  },
+  {
+    "id": "ord-p25",
+    "domain": "order_entry",
+    "stem": "If a patient uses 1 drop in each eye three times daily from a 5 mL bottle, approximate days supply if 20 drops ≈ 1 mL:",
+    "choices": [
+      "About 16 days",
+      "About 5 days",
+      "About 50 days",
+      "About 2 days"
+    ],
+    "correctIndex": 0,
+    "rationale": "6 drops/day; 5 mL x 20 drops/mL = 100 drops; 100/6 ≈ 16.7 days.",
+    "topicTags": [
+      "calculations",
+      "days-supply"
+    ],
+    "paidOnly": true,
+    "needsReview": true
+  }
+]
